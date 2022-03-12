@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @encrxption
-- 👀 I’m interested in Cxx & networking
-- 🌱 I’m currently learning networking
-- 💞️ I’m looking to collaborate on anything C/C++ related
+- 👀 I’m interested in C++ and being based
+- 🌱 I’m currently learning anything C++ related becuase im based
+- 💞️ I’m looking to collaborate on anything C++ related because im based
 
 <!---
 encrxption/encrxption is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
